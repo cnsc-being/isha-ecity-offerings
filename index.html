@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <title>Isha — Electronic City</title>
+  <meta name="description" content="A gentle space for Isha meditators and volunteers in Electronic City.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <h1 class="site-title">Isha</h1>
+    <p class="site-subtitle">Electronic City</p>
+  </header>
+
+  <!-- Sticky calendar ribbon -->
+  <nav class="cal-ribbon" id="cal-ribbon" aria-label="Calendar">
+    <div class="cal-head" id="cal-head"></div>
+    <div class="cal-dates" id="cal-dates"></div>
+  </nav>
+
+  <main class="main">
+    <section id="next" class="section" aria-label="What you can join next">
+      <p class="section-whisper">What you can join next</p>
+      <div id="next-card"></div>
+    </section>
+
+    <section id="upcoming" class="section" aria-label="Upcoming offerings">
+      <h2 class="section-title">Upcoming offerings</h2>
+      <div id="upcoming-cards" class="card-list"></div>
+    </section>
+
+    <section id="recent" class="section" aria-label="Recent happenings">
+      <h2 class="section-title">Recent Happenings in Electronic City</h2>
+      <div id="recent-cards" class="card-list"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>An unofficial offering by meditators, for meditators.</p>
+    <p class="footer-quiet">Electronic City · Bengaluru</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

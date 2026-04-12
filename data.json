@@ -1,0 +1,199 @@
+{
+  "tagline": "Offer yourself beyond limitations — experience the power of a consecrated space and deepen your sadhana.",
+  "offerings": [
+    {
+      "id": "sannidhi-trip",
+      "title": "Sadhguru Sannidhi — Sadhana Seva Trip",
+      "startDate": "2026-04-25",
+      "endDate": "2026-04-26",
+      "time": "",
+      "tags": ["Sadhana", "Seva", "Sangha"],
+      "location": {
+          "name": "Sadhguru Sannidhi, Bengaluru",
+          "mapUrl": "https://share.google/0lVjxSJaUFe9vqbeH"
+        },
+      "description": "Travel together from Electronic City and spend time in sadhana and seva at Sannidhi. A simple possibility to be involved and experience the space more deeply.",
+      "image": "https://static.sadhguru.org/d/46272/1687922099-image-2.jpg",
+      "details": [
+        "🌼 Offer yourself beyond limitations, Experience the power of a consecrated space, and Deepen your sadhana.",
+        "🚌 Free bus service is arranged for this sacred journey",
+        "📍 Departure: 25th April Morning 🌅",
+        "📍 Return: 26th April Evening 🌇",
+        "🚏 Boarding Points: Chandapura Circle – 5:15am, DMart Electronic City – 5:30am, Koodlu Gate Metro – 5:35am, Bommanahalli Metro – 5:40am",
+        "RSVP and register to confirm your participation",
+        "Join the WhatsApp group for coordination and updates"
+      ],
+      "actions": [
+        { "label": "Register", "url": "https://ishangam.isha.in/vro-registration/" },
+        { "label": "Join WhatsApp Group", "url": "https://chat.whatsapp.com/CzONsHZofxvDdlRfb7W7Yk" }
+      ]
+    },
+    {
+      "id": "save-soil-walkathon",
+      "title": "Save Soil Walkathon",
+      "startDate": "2026-04-26",
+      "time": "5:00 PM – 6:00 PM",
+      "tags": ["Seva"],
+      "location": {
+        "name": "Hosa Road, Bengaluru", 
+        "mapUrl": "https://maps.app.goo.gl/p6KoPnFn8dQJjPLk8"
+        },
+      "description": "A walkathon in support of the Save Soil movement. Walk together, raise awareness, and be part of a conscious effort for the planet.",
+      "image": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180535113%252F300670662186%252F1%252Foriginal.20260324-041001%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D600%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.937%26fp-y%3D0.234%26s%3D33493fbf29deee5912feaa6b9d34205a&w=1880&q=75",
+      "details": [
+        "Route: Hosa Road Junction (Sri Chennakeshava School) → Central Jail Parappana Agrahara",
+        "Wear comfortable walking shoes",
+        "Carry a water bottle"
+      ],
+      "actions": [
+        { "label": "Join", "url": "#" }
+      ]
+    },
+    {
+      "id": "surya-kriya",
+      "title": "Surya Kriya — Hatha Yoga Offerings",
+      "startDate": "2026-04-29",
+      "endDate": "2026-05-02",
+      "time": "6:30 AM – 8:30 AM",
+      "tags": ["Sadhana"],
+      "location": {
+          "name": "St. Joseph's Institute, EC Phase-2",
+          "mapUrl": "https://maps.app.goo.gl/ztg1tfq5nXBtGDr96"
+        },
+      "description": "A powerful yogic practice to align the system with the sun cycles. Open for both new participants and those wishing to refresh their practice as a volunteer.",
+      "image": "https://static.sadhguru.org/d/46272/1633184226-1633184225904.jpg",
+      "details": [
+        "4 consecutive classes — attendance on all days is required",
+        "No prior yoga experience needed",
+        "Open to new participants and refreshers",
+        "Can join as a volunteer to refresh the practice and support the sessions"
+      ],
+      "actions": [
+        { "label": "Register as Participant", "url": "https://isha.sadhguru.org/in/en/program-details?id=1200524" },
+        { "label": "RSVP as Volunteer", "url": "#" }
+      ]
+    },
+    {
+      "id": "yogasanas",
+      "title": "Yogasanas — Hatha Yoga Offerings",
+      "startDate": "2026-04-29",
+      "endDate": "2026-05-03",
+      "time": "6:00 PM – 9:00 PM",
+      "tags": ["Sadhana"],
+      "location": {
+          "name": "St. Joseph's Institute, EC Phase-2",
+          "mapUrl": "https://maps.app.goo.gl/ztg1tfq5nXBtGDr96"
+        },
+      "description": "Classical yogasanas to bring stability and ease to the system. A supportive space to deepen one's practice. Open for both new participants and those wishing to refresh their practice as a volunteer.",
+      "image": "https://static.sadhguru.org/d/46272/1633190806-1633190805087.jpg",
+      "details": [
+        "5 consecutive evenings — all sessions are mandatory",
+        "No prior yoga experience needed",
+        "Open to new participants and refreshers",
+        "Can join as a volunteer to refresh the practice and support the sessions"
+      ],
+      "actions": [
+        { "label": "Register as Participant", "url": "https://isha.sadhguru.org/in/en/program-details?id=1200526" },
+        { "label": "RSVP as Volunteer", "url": "#" }
+      ]
+    },
+    {
+      "id": "bhuta-shuddhi",
+      "title": "Bhuta Shuddhi — Hatha Yoga Offerings",
+      "startDate": "2026-05-03",
+      "time": "10:30 AM – 12:00 PM",
+      "tags": ["Sadhana"],
+      "location": {
+          "name": "St. Joseph's Institute, EC Phase-2",
+          "mapUrl": "https://maps.app.goo.gl/ztg1tfq5nXBtGDr96"
+        },
+      "description": "A powerful process of elemental cleansing, creating balance and inner stability. Open for both new participants and those wishing to refresh their practice as a volunteer.",
+      "image": "https://images.sadhguru.org/d/46272/1626099408-20131211chi0081-1.jpg",
+      "details": [
+        "Bhuta Shuddhi Kit will be provided to participants",
+        "No prior yoga experience needed",
+        "Open to new participants and refreshers",
+        "Can join as a volunteer to refresh the practice and support the sessions"
+      ],
+      "actions": [
+        { "label": "Register as Participant", "url": "https://isha.sadhguru.org/in/en/program-details?id=1200690" },
+        { "label": "RSVP as Volunteer", "url": "#" }
+      ]
+    },
+    {
+      "id": "satsang-may",
+      "title": "Monthly Satsang — May",
+      "startDate": "2026-05-03",
+      "time": "7:30 AM – 9:30 AM",
+      "tags": ["Sadhana", "Sangha"],
+      "location": "Electronic City",
+      "description": "A space to come together, sit, practice, and simply be in the presence of sangha.",
+      "image": "https://eu.sadhguru.org/wp-content/uploads/2022/06/satsang-calendar-1.jpg",
+      "actions": [
+        { "label": "Register", "url": "#" },
+        { "label": "Volunteer", "url": "#" }
+      ]
+    },
+    {
+      "id": "angamardana",
+      "title": "Angamardana — Hatha Yoga Offerings",
+      "startDate": "2026-05-15",
+      "time": "",
+      "tags": ["Sadhana"],
+      "location": "Electronic City",
+      "description": "A dynamic system to build strength, flexibility, and resilience in the body. Dates and timings to be confirmed.",
+      "image": "https://www.datocms-assets.com/46272/1633184150-1633184149373.jpg?auto=format&fit=max&w=1200",
+      "comingSoon": true,
+      "actions": [
+        { "label": "Show Interest", "url": "#" }
+      ]
+    },
+    {
+      "id": "children-yoga",
+      "title": "Children's Yoga — Hatha Yoga Offerings",
+      "startDate": "2026-05-15",
+      "time": "",
+      "tags": ["Sadhana"],
+      "location": "Electronic City",
+      "description": "Offering yoga for children to support balance, focus, and wellbeing from a young age. Dates and timings to be confirmed.",
+      "image": "https://static.sadhguru.org/d/46272/1650508800-website-thumbnail-yogameditation-childrens-ie.jpg",
+      "comingSoon": true,
+      "actions": [
+        { "label": "Show Interest", "url": "#" }
+      ]
+    }
+  ],
+  "recentHappenings": [
+    {
+      "id": "satsang-april",
+      "title": "Monthly Satsang — April",
+      "startDate": "2026-04-04",
+      "tags": ["Sadhana", "Sangha"],
+      "location": "Transform Cricket Academy & Hosa Road",
+      "description": "Around 60 participants joined for Satsang across both locations.",
+      "image": "https://eu.sadhguru.org/wp-content/uploads/2022/06/satsang-calendar-1.jpg",
+      "actions": []
+    },
+    {
+      "id": "ie-completion",
+      "title": "Inner Engineering Completion Program",
+      "startDate": "2026-03-28",
+      "endDate": "2026-03-29",
+      "tags": ["Sadhana", "Seva"],
+      "location": "Electronic City",
+      "description": "71 participants initiated into Shambhavi Mahamudra Kriya. 40 volunteers offered support and relived their Inner Engineering experience.",
+      "image": "",
+      "actions": []
+    },
+    {
+      "id": "shambhavi-meetup",
+      "title": "Shambhavi Meetup — Electronic City",
+      "startDate": "2026-03-28",
+      "tags": ["Sadhana", "Sangha"],
+      "location": "Electronic City",
+      "description": "Around 50 participants came together to refresh their practice and spend time in sangha.",
+      "image": "",
+      "actions": []
+    }
+  ]
+}
