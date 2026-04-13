@@ -151,7 +151,8 @@
     {
       "id": "children-yoga",
       "title": "Children's Yoga — Hatha Yoga Offerings",
-      "startDate": "2026-05-15",
+      "startDate": "2026-05-13",
+      "endDate": "2026-06-02",
       "time": "",
       "tags": ["Sadhana"],
       "location": "Electronic City",
@@ -161,7 +162,54 @@
       "actions": [
         { "label": "Show Interest", "url": "#" }
       ]
-    }
+    },
+    {
+    "id": "inner-engineering-kannada",
+    "title": "Inner Engineering — 7-Day (Kannada)",
+    "startDate": "2026-05-27",
+    "endDate": "2026-06-02",
+    "time": "",
+    "tags": ["Sadhana"],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFjrJKHnphhjdqK4ZzrLtxQcvYQ0xFiy00A&s",
+    "comingSoon": true,
+    "location": {
+      "name": "Electronic City",
+      "mapUrl": ""
+    },
+    "description": "Inner Engineering is a 7-day program that offers tools for inner wellbeing through guided meditations and practices.",
+    "details": [
+      "7 consecutive days — participation on all days is required",
+      " firstr time offered in Kannada in Electronic City"
+    ],
+    "actions": [
+      { "label": "Register", "url": "#" },
+      { "label": "Volunteer", "url": "#" }
+    ]
+  },
+  {
+    "id": "guru-pooja",
+    "title": "Guru Pooja Program",
+    "startDate": "2026-07-17",
+    "endDate": "2026-07-19",
+    "time": "",
+    "tags": ["Sadhana", "Seva"],
+    "image": "https://static.sadhguru.org/d/46272/1626099415-20140223bel0165-e-1.jpg",
+    "comingSoon": true,
+    "location": {
+      "name": "Electronic City",
+      "mapUrl": ""
+    },
+    "description": "Guru Pooja is a process to establish a connection with the source of creation.",
+    "details": [
+      "Learn the Guru Pooja process step by step",
+      "Open to new participants and refreshers",
+      "Being offered in Electronic City for the first time"
+    ],
+    "actions": [
+      { "label": "Register", "url": "#" },
+      { "label": "Know More", "url": "#" }
+    ]
+  }
   ],
   "recentHappenings": [
     {
