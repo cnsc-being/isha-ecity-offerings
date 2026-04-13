@@ -70,7 +70,7 @@
       ],
       "actions": [
         { "label": "Register as Participant", "url": "https://isha.sadhguru.org/in/en/program-details?id=1200524" },
-        { "label": "RSVP as Volunteer", "url": "#" }
+        { "label": "Join as Volunteer", "url": "https://chat.whatsapp.com/Fldw58BhbwYB3zPOG7viss?mode=gi_t" }
       ]
     },
     {
@@ -94,7 +94,7 @@
       ],
       "actions": [
         { "label": "Register as Participant", "url": "https://isha.sadhguru.org/in/en/program-details?id=1200526" },
-        { "label": "RSVP as Volunteer", "url": "#" }
+        { "label": "Join as Volunteer", "url": "https://chat.whatsapp.com/Fldw58BhbwYB3zPOG7viss?mode=gi_t" }
       ]
     },
     {
@@ -117,7 +117,7 @@
       ],
       "actions": [
         { "label": "Register as Participant", "url": "https://isha.sadhguru.org/in/en/program-details?id=1200690" },
-        { "label": "RSVP as Volunteer", "url": "#" }
+        { "label": "Join as Volunteer", "url": "https://chat.whatsapp.com/Fldw58BhbwYB3zPOG7viss?mode=gi_t" }
       ]
     },
     {
@@ -183,7 +183,7 @@
     ],
     "actions": [
       { "label": "Register", "url": "#" },
-      { "label": "Volunteer", "url": "#" }
+      { "label": "Join as Volunteer", "url": "https://chat.whatsapp.com/BeHxf5H5YGd0nF7Hp2WRRn?mode=gi_t" }
     ]
   },
   {
@@ -207,7 +207,7 @@
     ],
     "actions": [
       { "label": "Register", "url": "#" },
-      { "label": "Know More", "url": "#" }
+      { "label": "Join as Volunteer", "url": "#" }
     ]
   }
   ],
