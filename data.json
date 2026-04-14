@@ -44,9 +44,6 @@
         "Route: Hosa Road Junction (Sri Chennakeshava School) → Central Jail Parappana Agrahara",
         "Wear comfortable walking shoes",
         "Carry a water bottle"
-      ],
-      "actions": [
-        { "label": "Join", "url": "#" }
       ]
     },
     {
@@ -173,16 +170,16 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFjrJKHnphhjdqK4ZzrLtxQcvYQ0xFiy00A&s",
     "comingSoon": true,
     "location": {
-      "name": "Electronic City",
-      "mapUrl": ""
-    },
+          "name": "St. Joseph's Institute, EC Phase-2",
+          "mapUrl": "https://maps.app.goo.gl/ztg1tfq5nXBtGDr96"
+      },
     "description": "Inner Engineering is a 7-day program that offers tools for inner wellbeing through guided meditations and practices.",
     "details": [
       "7 consecutive days — participation on all days is required",
-      " firstr time offered in Kannada in Electronic City"
+      "First time offered in Kannada in Electronic City"
     ],
     "actions": [
-      { "label": "Register", "url": "#" },
+      { "label": "Register", "url": "https://isha.sadhguru.org/in/en/program-details?id=1200723%E2%81%A0" },
       { "label": "Join as Volunteer", "url": "https://chat.whatsapp.com/BeHxf5H5YGd0nF7Hp2WRRn?mode=gi_t" }
     ]
   },
