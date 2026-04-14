@@ -134,7 +134,7 @@
     {
       "id": "angamardana",
       "title": "Angamardana — Hatha Yoga Offerings",
-      "startDate": "2026-05-15",
+      "startDate": "",
       "time": "",
       "tags": ["Sadhana"],
       "location": "Electronic City",
@@ -168,7 +168,6 @@
     "time": "",
     "tags": ["Sadhana"],
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFjrJKHnphhjdqK4ZzrLtxQcvYQ0xFiy00A&s",
-    "comingSoon": true,
     "location": {
           "name": "St. Joseph's Institute, EC Phase-2",
           "mapUrl": "https://maps.app.goo.gl/ztg1tfq5nXBtGDr96"
