@@ -182,12 +182,12 @@ function buildRibbon(allItems) {
   });
 
   const start = new Date(today + 'T00:00:00');
-  start.setDate(start.getDate() - 7);
+  start.setDate(start.getDate() - 21);
 
   let html = '';
   let prevMonth = -1;
 
-  for (let i = 0; i < 52; i++) {
+  for (let i = 0; i < 112; i++) {
     const d = new Date(start);
     d.setDate(start.getDate() + i);
     const ds = d.toISOString().split('T')[0];
