@@ -233,9 +233,9 @@ function buildRibbon(allItems) {
   const now = new Date(today + 'T00:00:00');
   setHead(headEl, now.getMonth(), now.getFullYear());
 
-  // Scroll to today
-  const todayCell = datesEl.querySelector('.today');
-  if (todayCell) todayCell.scrollIntoView({ inline: 'center', behavior: 'instant' });
+  // // Scroll to today
+  // const todayCell = datesEl.querySelector('.today');
+  // if (todayCell) todayCell.scrollIntoView({ inline: 'center', behavior: 'instant' });
 
   // Update header on scroll
   let ticking = false;
