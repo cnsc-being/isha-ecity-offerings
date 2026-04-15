@@ -175,10 +175,11 @@
     "description": "Inner Engineering is a 7-day program that offers tools for inner wellbeing through guided meditations and practices.",
     "details": [
       "7 consecutive days — participation on all days is required",
+      "Wed - Sat & Mon - Tue Morning 06:00AM to 09:00AM Or Evening 06:00PM to 09:00PM Sunday Full Day 07:00AM to 05:00PM",
       "First time offered in Kannada in Electronic City"
     ],
     "actions": [
-      { "label": "Register", "url": "https://isha.sadhguru.org/in/en/program-details?id=1200723%E2%81%A0" },
+      { "label": "Register", "url": "https://isha.sadhguru.org/in/en/program-details?id=1200723" },
       { "label": "Join as Volunteer", "url": "https://chat.whatsapp.com/BeHxf5H5YGd0nF7Hp2WRRn?mode=gi_t" }
     ]
   },
@@ -200,10 +201,6 @@
       "Learn the Guru Pooja process step by step",
       "Open to new participants and refreshers",
       "Being offered in Electronic City for the first time"
-    ],
-    "actions": [
-      { "label": "Register", "url": "#" },
-      { "label": "Join as Volunteer", "url": "#" }
     ]
   }
   ],
