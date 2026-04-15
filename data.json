@@ -155,9 +155,8 @@
       "location": "Electronic City",
       "description": "Offering yoga for children to support balance, focus, and wellbeing from a young age. Dates and timings to be confirmed.",
       "image": "https://static.sadhguru.org/d/46272/1650508800-website-thumbnail-yogameditation-childrens-ie.jpg",
-      "comingSoon": true,
       "actions": [
-        { "label": "Show Interest", "url": "#" }
+        { "label": "Registrations (yet to open)", "url": "#" }
       ]
     },
     {
@@ -191,7 +190,6 @@
     "time": "",
     "tags": ["Sadhana", "Seva"],
     "image": "https://static.sadhguru.org/d/46272/1626099415-20140223bel0165-e-1.jpg",
-    "comingSoon": true,
     "location": {
       "name": "Electronic City",
       "mapUrl": "#"
