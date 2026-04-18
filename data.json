@@ -44,6 +44,9 @@
         "Route: Hosa Road Junction (Sri Chennakeshava School) → Central Jail Parappana Agrahara",
         "Wear comfortable walking shoes",
         "Carry a water bottle"
+      ],
+      "actions": [
+        { "label": "Join WhatsApp Group", "url": "https://chat.whatsapp.com/Hrsk4l0EQmKGpBUmEIHQiX" }
       ]
     },
     {
@@ -127,8 +130,8 @@
       "description": "A space to come together, sit, practice, and simply be in the presence of sangha.",
       "image": "https://eu.sadhguru.org/wp-content/uploads/2022/06/satsang-calendar-1.jpg",
       "actions": [
-        { "label": "Register", "url": "#" },
-        { "label": "Volunteer", "url": "#" }
+        { "label": "Register (yet to be published)", "url": "#" },
+        { "label": "Volunteer (yet to be published)", "url": "#" }
       ]
     },
     {
@@ -141,9 +144,6 @@
       "description": "A dynamic system to build strength, flexibility, and resilience in the body. Dates and timings to be confirmed.",
       "image": "https://www.datocms-assets.com/46272/1633184150-1633184149373.jpg?auto=format&fit=max&w=1200",
       "comingSoon": true,
-      "actions": [
-        { "label": "Show Interest", "url": "#" }
-      ]
     },
     {
       "id": "children-yoga",
@@ -210,7 +210,7 @@
       "tags": ["Sadhana", "Sangha"],
       "location": "Transform Cricket Academy & Hosa Road",
       "description": "Around 60 participants joined for Satsang across both locations.",
-      "image": "https://eu.sadhguru.org/wp-content/uploads/2022/06/satsang-calendar-1.jpg",
+      "image": "",
       "actions": []
     },
     {
