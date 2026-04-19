@@ -130,8 +130,8 @@
       "description": "A space to come together, sit, practice, and simply be in the presence of sangha.",
       "image": "https://eu.sadhguru.org/wp-content/uploads/2022/06/satsang-calendar-1.jpg",
       "actions": [
-        { "label": "Register (yet to be published)", "url": "#" },
-        { "label": "Volunteer (yet to be published)", "url": "#" }
+        { "label": "Register (yet to be open)", "url": "#" },
+        { "label": "Volunteer (yet to be open)", "url": "#" }
       ]
     },
     {
@@ -156,7 +156,7 @@
       "description": "Offering yoga for children to support balance, focus, and wellbeing from a young age. Dates and timings to be confirmed.",
       "image": "https://static.sadhguru.org/d/46272/1650508800-website-thumbnail-yogameditation-childrens-ie.jpg",
       "actions": [
-        { "label": "Registrations (yet to open)", "url": "#" }
+        { "label": "Register", "url": "https://isha.sadhguru.org/in/en/program-details?id=1200824" }
       ]
     },
     {
