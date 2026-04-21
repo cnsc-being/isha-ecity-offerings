@@ -149,7 +149,11 @@
           "mapUrl": "https://maps.app.goo.gl/jCmxyvKwAm7cRU2r9"
         },
       "description": "A dynamic system to build strength, flexibility, and resilience in the body. Dates and timings to be confirmed.",
-      "image": "https://www.datocms-assets.com/46272/1633184150-1633184149373.jpg?auto=format&fit=max&w=1200"
+      "image": "https://www.datocms-assets.com/46272/1633184150-1633184149373.jpg?auto=format&fit=max&w=1200",
+      "actions": [
+        { "label": "Register as Participant", "url": "https://isha.sadhguru.org/in/en/program-details?id=1200840" },
+        { "label": "Join as Volunteer", "url": "https://chat.whatsapp.com/Ezts9v7Sdex7SpoZpwI8XV?mode=gi_t" }
+      ]
     },
     {
       "id": "children-yoga",
@@ -165,7 +169,8 @@
       "description": "Offering yoga for children to support balance, focus, and wellbeing from a young age. Dates and timings to be confirmed.",
       "image": "https://static.sadhguru.org/d/46272/1650508800-website-thumbnail-yogameditation-childrens-ie.jpg",
       "actions": [
-        { "label": "Register", "url": "https://isha.sadhguru.org/in/en/program-details?id=1200824" }
+        { "label": "Register", "url": "https://isha.sadhguru.org/in/en/program-details?id=1200824" },
+        { "label": "Support as Volunteer", "url": "https://chat.whatsapp.com/Ezts9v7Sdex7SpoZpwI8XV?mode=gi_t" }
       ]
     },
     {
