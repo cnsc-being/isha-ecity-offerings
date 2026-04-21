@@ -126,7 +126,10 @@
       "startDate": "2026-05-03",
       "time": "7:30 AM – 9:30 AM",
       "tags": ["Sadhana", "Sangha"],
-      "location": "Electronic City",
+      "location": {
+          "name": "St. Joseph's Institute, EC Phase-2",
+          "mapUrl": "https://maps.app.goo.gl/ztg1tfq5nXBtGDr96"
+        },
       "description": "A space to come together, sit, practice, and simply be in the presence of sangha.",
       "image": "https://eu.sadhguru.org/wp-content/uploads/2022/06/satsang-calendar-1.jpg",
       "actions": [
@@ -137,13 +140,16 @@
     {
       "id": "angamardana",
       "title": "Angamardana — Hatha Yoga Offerings",
-      "startDate": "",
-      "time": "",
+      "startDate": "2026-05-13",
+      "endDate": "2026-05-17",
+      "time": "6:00 AM - 9:00 AM",
       "tags": ["Sadhana"],
-      "location": "Electronic City",
+      "location": {
+          "name": "Transform Cricket Academy, EC Phase-1",
+          "mapUrl": "https://maps.app.goo.gl/jCmxyvKwAm7cRU2r9"
+        },
       "description": "A dynamic system to build strength, flexibility, and resilience in the body. Dates and timings to be confirmed.",
       "image": "https://www.datocms-assets.com/46272/1633184150-1633184149373.jpg?auto=format&fit=max&w=1200",
-      "comingSoon": true
     },
     {
       "id": "children-yoga",
@@ -152,7 +158,10 @@
       "endDate": "2026-05-17",
       "time": "",
       "tags": ["Sadhana"],
-      "location": "Electronic City",
+      "location": {
+          "name": "Transform Cricket Academy, EC Phase-1",
+          "mapUrl": "https://maps.app.goo.gl/jCmxyvKwAm7cRU2r9"
+        },
       "description": "Offering yoga for children to support balance, focus, and wellbeing from a young age. Dates and timings to be confirmed.",
       "image": "https://static.sadhguru.org/d/46272/1650508800-website-thumbnail-yogameditation-childrens-ie.jpg",
       "actions": [
