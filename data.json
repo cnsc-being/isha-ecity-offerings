@@ -148,8 +148,14 @@
           "name": "Transform Cricket Academy, EC Phase-1",
           "mapUrl": "https://maps.app.goo.gl/jCmxyvKwAm7cRU2r9"
         },
-      "description": "A dynamic system to build strength, flexibility, and resilience in the body. Dates and timings to be confirmed.",
+      "description": "Angamardana, a fitness system rooted in yoga, offers everyone the opportunity to invigorate the body and reach peak physical and mental health. “Angamardana” means gaining complete mastery over the limbs, organs, and other parts of the body. True to its name, this practice revitalizes the body on all levels including the muscles, circulatory system, skeletal structure, nervous system, and the basic energy system.",
       "image": "https://www.datocms-assets.com/46272/1633184150-1633184149373.jpg?auto=format&fit=max&w=1200",
+      "details": [
+        "5 consecutive sessions — all sessions are mandatory",
+        "No prior yoga experience needed",
+        "Open to new participants and refreshers",
+        "Can join as a volunteer to refresh the practice and support the sessions"
+      ],
       "actions": [
         { "label": "Register as Participant", "url": "https://isha.sadhguru.org/in/en/program-details?id=1200840" },
         { "label": "Join as Volunteer", "url": "https://chat.whatsapp.com/Ezts9v7Sdex7SpoZpwI8XV?mode=gi_t" }
